@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>LogReport.Bll</AssemblyName>
+    <RootNamespace>LogReport.Bll</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Tx.Windows" Version="3.0.6" />
+    <PackageReference Include="Tx.Windows.TypeGeneration" Version="3.0.2" />
+  </ItemGroup>
+
+</Project>
